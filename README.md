@@ -4,7 +4,7 @@ Simple Food delivery app with Flutter, Just for practice ;).
 
 # Screenshots 
 
-<img src="https://github.com/Mohammed187/delivery_food_app_v2/commit/34ed277bfbabbe5e63c110d60d51c72616344f6b" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/commit/34ed277bfbabbe5e63c110d60d51c72616344f6b" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/commit/34ed277bfbabbe5e63c110d60d51c72616344f6b" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/commit/34ed277bfbabbe5e63c110d60d51c72616344f6b" height="500">
+<img src="https://github.com/Mohammed187/delivery_food_app_v2/blob/master/page1.png" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/blob/master/page2.png" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/blob/master/page3.png" height="500"> <img src="https://github.com/Mohammed187/delivery_food_app_v2/blob/master/page4.png" height="500">
 
 ## Getting Started
 
